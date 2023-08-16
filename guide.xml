@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TV TEM Sorocaba">
+    <display-name lang="pt">TV TEM Sorocaba</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1599365986.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo SP">
+    <display-name lang="pt">Globo SP</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1642295823.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band">
+    <display-name lang="pt">Band</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1597183442.gif|https://www.lineup.tv.br/canais/1691075487.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RecordTV">
+    <display-name lang="pt">RecordTV</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1642295823.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <icon src="https://www.lineup.tv.br/canais/gnt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CNN BRASIL">
+    <display-name lang="pt">CNN BRASIL</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <icon src="https://www.lineup.tv.br/canais/elmostrador.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
